@@ -1,0 +1,25 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "Test project for node",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamxalchemist/test_node.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "dreamxalchemist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamxalchemist/test_node/issues"
+  },
+  "homepage": "https://github.com/dreamxalchemist/test_node#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
